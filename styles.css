@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+}
+nav {
+    background-color: gray;
+    width: fit-content;
+    height: fit-content;
+    align-items: center;
+}
+a{ 
+    margin: 15px;
+    padding: 5px;
+    font-size: large;
+    color: whitesmoke;
+    align-items: center;
+}
+a:hover{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
